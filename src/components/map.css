@@ -1,0 +1,16 @@
+.map{
+    width: 50vw;
+    display: flex;
+}
+
+
+svg{
+    fill: rgb(119, 119, 201);
+    stroke-width: 1px;
+    stroke: #fff;
+}
+
+.active{
+    fill: rgb(67, 67, 214);;
+    cursor: pointer
+}
